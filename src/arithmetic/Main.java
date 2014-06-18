@@ -27,7 +27,7 @@ public class Main {
 			}
 		}
 		
-		System.out.println("Hasil: " + result);
+		System.out.println("Hasil(edit yohan): " + result);
 		
 		sc.close();
 	}
