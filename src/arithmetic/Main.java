@@ -12,7 +12,7 @@ public class Main {
 		double a, b, result = Double.NaN;
 		char symbol;
 
-		System.out.print("a: ");
+		System.out.print("masukan a!");
 		a = sc.nextDouble();		
 
 		System.out.print("b: ");
