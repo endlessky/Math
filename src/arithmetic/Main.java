@@ -15,7 +15,7 @@ public class Main {
 		System.out.print("masukan a!");
 		a = sc.nextDouble();		
 
-		System.out.print("b: ");
+		System.out.print("Masukan b: ");
 		b = sc.nextDouble();
 
 		System.out.print("Masukkan simbol: ");
