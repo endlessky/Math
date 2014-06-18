@@ -7,7 +7,7 @@ import arithmetic.model.ArithmeticOperation;
 
 public class Main {
 	public static void main(String[] args) {
-		ArithmeticOperation[] operations = {new Addition()};
+		ArithmeticOperation[] operations = {};
 		Scanner sc = new Scanner(System.in);
 		double a, b, result = Double.NaN;
 		char symbol;
